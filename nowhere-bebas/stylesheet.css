@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'bebas_neueregular';
-    src: url('BebasNeue-webfont.eot');
-    src: url('BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-         url('BebasNeue-webfont.woff') format('woff'),
-         url('BebasNeue-webfont.ttf') format('truetype'),
-         url('BebasNeue-webfont.svg#bebas_neueregular') format('svg');
+    src: url('https://stdclass.github.io/nowhere-bebas/BebasNeue-webfont.eot');
+    src: url('https://stdclass.github.io/nowhere-bebas/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://stdclass.github.io/nowhere-bebas/BebasNeue-webfont.woff') format('woff'),
+         url('https://stdclass.github.io/nowhere-bebas/BebasNeue-webfont.ttf') format('truetype'),
+         url('https://stdclass.github.io/nowhere-bebas/BebasNeue-webfont.svg#bebas_neueregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
